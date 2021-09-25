@@ -17,6 +17,7 @@ This project will have Python implementations for all kinds of algorithms and ne
 The first module comes with a small amount of code and small amount of hardware you need 
 
 - `light.ino`: This small code contains a small amount of code that represent how you can make a rgb light bulb run on arduino and make 8 color glowing you can make this in just few minutes.
+- `circuit.brd`: This file contains all the circuit you need it has ardiuno and its full setup so fell free to chekc.
 
 <!-- ## Installation Guide
 
@@ -41,19 +42,27 @@ And you are good to go! -->
 `Still on process to add..`
 
 # Hardware You Need
-- **Arduino Uno**
+- **Arduino Uno**:--
+
+Arduino/Genuino Uno is a microcontroller board based on the ATmega328P. It has 14 digital input/output pins, 6 analog inputs, a 16 MHz quartz crystal, a USB connection, a power jack, an ICSP header and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started.
 
 ![Ardunio Uno](https://cdn.shopify.com/s/files/1/0506/1689/3647/products/A000066_03.front_970c6014-61ab-4226-a20f-14cc6d8d682c_934x700.jpg?v=1629816078)
 
 - **Breadboard Circuit**
 
+The breadboard is the bread-and-butter of DIY electronics. Breadboards allow beginners to get acquainted with circuits without the need for soldering, and even seasoned tinkerers use breadboards as starting points for large-scale projects.
+
 ![Breadboard Circuit](https://m.media-amazon.com/images/I/41xei0UTCvL._SX466_.jpg)
 
 - Resistor
 
+A resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element.
+
 ![Resistor](https://upload.wikimedia.org/wikipedia/commons/7/75/Electronic-Axial-Lead-Resistors-Array.jpg)
 
 - **LED RGB**
+
+Its just a normal RGB(Red,Green,Blue) Led Buld
 
 ![LED RGB](https://cdn.sparkfun.com//assets/parts/6/5/5/7/11120-Diffused_LED_-_RGB_10mm-01.jpg)
 
@@ -64,6 +73,16 @@ And you are good to go! -->
 
 # Circuit Example
 ![Example](https://github.com/monupareeklg/ai_hub/blob/master/example.png?raw=true)
+
+# What is a BRD file?
+
+A BRD file is a **CAD** file created by Autodesk EAGLE, an application used for schematic capture and PCB (printed circuit board) design. It is created with the EAGLE Layout Editor and used to develop design templates for circuitry.
+
+# How do I open a BRD file?
+
+You can open a BRD file in a variety of PCB design applications, including Autodesk EAGLE (cross-platform), Altium Designer (Windows), and Open Board Viewer (Linux).
+
+If you do not have access to any of the above applications, the easiest way to view the circuit board design contained within a BRD file is to upload it to [Altium 365 Viewer](https://www.altium.com/viewer/), a free, online CAD file viewer (Web).
 
 
 
