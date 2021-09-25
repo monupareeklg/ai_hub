@@ -8,6 +8,7 @@ These are the greatest books we have used in this community to build an clean an
 - Artificial Intelligence with Python.(2017)
 - Python Machine Learning.(2015)
 - Artificial Intelligence with Python: Your Complete Guide to Building Intelligent Apps Using Python 3.x, 2nd Edition.
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
 
 # Structure of the Project
 
@@ -37,3 +38,9 @@ And you are good to go!
 
 
 # Algorithms Use
+`Still on process to add..`
+
+# Hardware You Need
+- Arduino Uno 
+![alt text](https://cdn.shopify.com/s/files/1/0506/1689/3647/products/A000066_03.front_970c6014-61ab-4226-a20f-14cc6d8d682c_934x700.jpg?v=1629816078)
+
