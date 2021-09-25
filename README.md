@@ -16,9 +16,9 @@ This project will have Python implementations for all kinds of algorithms and ne
 
 The first module comes with a small amount of code and small amount of hardware you need 
 
-- `light.py`: This small code contains a small amount of code that represent how you can make a light bulb turn on and off using machine learning algorithms the base of this file is python but because we are using and hardware for manipulation python comes with handy equipments like `airdino uno` and `airdino nano`. The `.py` file is represent the python extenshion ; there is a documentation avaliable in `light.ipynb` file.
+- `light.ino`: This small code contains a small amount of code that represent how you can make a rgb light bulb run on arduino and make 8 color glowing you can make this in just few minutes.
 
-## Installation Guide
+<!-- ## Installation Guide
 
 To download the repository:
 
@@ -34,7 +34,7 @@ Then you need to run the following script:--
 ```
 python light.py
 ```
-And you are good to go!
+And you are good to go! -->
 
 
 # Algorithms Use
