@@ -60,7 +60,7 @@ And you are good to go! -->
 
 ![LED RGB](https://cdn.sparkfun.com//assets/parts/6/5/5/7/11120-Diffused_LED_-_RGB_10mm-01.jpg)
 
-###### Resources
+# Resources
 
 1. Prototype [Link](https://www.tinkercad.com/things/2MnIFSYqLq6-funky-elzing/editel) for demo.
 2. Ardunio Documentation for this [Demo](https://create.arduino.cc/projecthub/muhammad-aqib/arduino-rgb-led-tutorial-fc003e)
@@ -78,3 +78,7 @@ A BRD file is a **CAD** file created by Autodesk EAGLE, an application used for 
 You can open a BRD file in a variety of PCB design applications, including Autodesk EAGLE (cross-platform), Altium Designer (Windows), and Open Board Viewer (Linux).
 
 If you do not have access to any of the above applications, the easiest way to view the circuit board design contained within a BRD file is to upload it to [Altium 365 Viewer](https://www.altium.com/viewer/), a free, online CAD file viewer (Web).
+
+# Licence 
+
+`AI_HUB` is made under the permissive open source [MIT Licence](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
