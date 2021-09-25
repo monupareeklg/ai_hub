@@ -41,6 +41,32 @@ And you are good to go!
 `Still on process to add..`
 
 # Hardware You Need
-- Arduino Uno 
-![alt text](https://cdn.shopify.com/s/files/1/0506/1689/3647/products/A000066_03.front_970c6014-61ab-4226-a20f-14cc6d8d682c_934x700.jpg?v=1629816078)
+- **Arduino Uno**
+
+![Ardunio Uno](https://cdn.shopify.com/s/files/1/0506/1689/3647/products/A000066_03.front_970c6014-61ab-4226-a20f-14cc6d8d682c_934x700.jpg?v=1629816078)
+
+- **Breadboard Circuit**
+
+![Breadboard Circuit](https://m.media-amazon.com/images/I/41xei0UTCvL._SX466_.jpg)
+
+- Resistor
+
+![Resistor](https://upload.wikimedia.org/wikipedia/commons/7/75/Electronic-Axial-Lead-Resistors-Array.jpg)
+
+- **LED RGB**
+
+![LED RGB](https://cdn.sparkfun.com//assets/parts/6/5/5/7/11120-Diffused_LED_-_RGB_10mm-01.jpg)
+
+###### Resources
+
+1. Prototype [Link](https://www.tinkercad.com/things/2MnIFSYqLq6-funky-elzing/editel) for demo.
+2. Ardunio Documentation for this [Demo](https://create.arduino.cc/projecthub/muhammad-aqib/arduino-rgb-led-tutorial-fc003e)
+
+# Circuit Example
+![Example](https://github.com/monupareeklg/ai_hub/blob/master/example.png?raw=true)
+
+
+
+
+
 
